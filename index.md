@@ -35,8 +35,8 @@ Undergraduate, Department of Computer Science and Technology, Tsinghua Universit
 * Desktop calendar supporting drag & drop, in Qt C++: [Code](https://github.com/songshshshsh/QtMyCalendar)
 * SAT-Based Two-Terminal Path Finding: [Code](https://github.com/songshshshsh/individual)  -- project for Object Oriented Programming
 * Implemented a website which can print the plot of the frequency of the key word shown on the Zhihu website. The key word is given by the user: [Code](https://github.com/wmyw96/Zhihu-Trump) -- project for Introduction to Data Science
-* Implemented seam-carving algorithm [Code](https://github.com/songshshshsh/seam-carving) and ray tracing(PM) [Code](https://github.com/songshshshsh/RayTracing)  -- project for Fundimental of Graphics
-* Helped to implement some extensions to Paper "Towards Deep Online Video Stabilization"(accepted to CVPR-18) [Paper Link](https://arxiv.org/abs/1802.08091)
+* Implemented seam-carving algorithm [Code](https://github.com/songshshshsh/seam-carving) and ray tracing(PM): [Code](https://github.com/songshshshsh/RayTracing)  -- project for Fundimental of Graphics
+* Helped to implement some extensions to Paper "Towards Deep Online Video Stabilization": [Paper Link](https://arxiv.org/abs/1802.08091)
 
 ## Others
 
