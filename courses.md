@@ -28,11 +28,5 @@ I got good grades in these courses:
 |Digital Logic Experimentation|A-|3.7|
 |Programing and Training|A-|3.7|
 |Formal Language and Automation|A-|3.7|
-|Calculus A(2)|A-|3.7|
-|Calculus A(2)|A-|3.7|
-|Calculus A(2)|A-|3.7|
-|Calculus A(2)|A-|3.7|
-|Calculus A(2)|A-|3.7|
-|Calculus A(2)|A-|3.7|
 
 *Last updated on Feb 28, 2018*
